@@ -71,3 +71,6 @@ export default defineConfig([
   },
 ])
 ```
+## Erişilebilirlik Testi (Lighthouse)
+Lighthouse erişilebilirlik testinden **96 puan** alınmıştır:
+![Lighthouse Puanı](lighthouse.png)
